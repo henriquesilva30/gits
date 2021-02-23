@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         // add metodo D
 
-        // add metodo E
+        // add metodoo E
 
 
     }
