@@ -15,6 +15,12 @@ class MainActivity : AppCompatActivity() {
         
        // add Joel by github
 
+        // add metodo C
+
+        // add metodo D
+
+        // add E
+
 
     }
 }
